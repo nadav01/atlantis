@@ -3,25 +3,13 @@
 </p>
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
-	
-## Dependencies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
+Atlantis is a simple yet powerful simulator of a viral disease within a community.
 
+## Setup
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+git clone https://github.com/nadav01/Atlantis
 ```
 ## Expample
-
-To run this project, install it locally using npm:
 
 ```
 import atlantis
@@ -34,7 +22,7 @@ sim.add_community(com)
 sim.run(40)
 ```
 
-Output:
+Output (printed to screen saved in info.log):
 ```
 2020-04-10 13:08:54,255 - root - INFO - total cases in community 1 is 13, active cases: 13
 2020-04-10 13:08:54,804 - root - INFO - total cases in community 1 is 32, active cases: 32
