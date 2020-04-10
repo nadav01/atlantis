@@ -12,12 +12,12 @@ git clone https://github.com/nadav01/Atlantis
 ## Expample
 
 ```
-import atlantis
+import Atlantis
 
-dis = atlantis.Disease(infection_prob=0.2, average_life_span=18)
-com = atlantis.Community(num_of_citizens=10000, average_physical_connections=10,
+dis = Atlantis.Disease(infection_prob=0.2, average_life_span=18)
+com = Atlantis.Community(num_of_citizens=10000, average_physical_connections=10,
                          disease=dis, num_of_infected=10, cliqe_prob=0.9)
-sim = atlantis.Simulator()
+sim = Atlantis.Simulator()
 sim.add_community(com)
 sim.run(40)
 ```
