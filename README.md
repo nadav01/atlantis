@@ -1,4 +1,6 @@
+<p align="center">
 ![Image description](https://i.imgur.com/Y2imFVO.png)
+</p>
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
