@@ -7,7 +7,7 @@ Atlantis is a simple yet powerful simulator of a viral disease within a communit
 
 ## Setup
 ```
-git clone https://github.com/nadav01/Atlantis
+git clone https://github.com/nadav01/atlantis
 ```
 ## Expample
 
