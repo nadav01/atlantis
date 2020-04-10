@@ -1,5 +1,4 @@
 <p align="center">
-![Image description](https://i.imgur.com/Y2imFVO.png)
 <img src="https://i.imgur.com/Y2imFVO.png">
 </p>
 
